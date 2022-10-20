@@ -1,4 +1,4 @@
-package com.finance.barra.service;
+package com.joao.basicauth.service;
 
 import org.springframework.security.core.context.SecurityContextHolder;
 

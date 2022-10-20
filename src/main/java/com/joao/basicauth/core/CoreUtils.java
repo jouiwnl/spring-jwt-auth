@@ -1,4 +1,4 @@
-package com.finance.barra.core;
+package com.joao.basicauth.core;
 
 import org.springframework.stereotype.Component;
 

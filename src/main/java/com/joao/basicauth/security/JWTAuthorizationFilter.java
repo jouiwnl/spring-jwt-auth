@@ -1,4 +1,4 @@
-package com.finance.barra.security;
+package com.joao.basicauth.security;
 
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

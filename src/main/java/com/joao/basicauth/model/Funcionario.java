@@ -1,7 +1,7 @@
-package com.finance.barra.model;
+package com.joao.basicauth.model;
 
-import com.finance.barra.core.DatabaseEntity;
-import com.finance.barra.enums.TipoCargo;
+import com.joao.basicauth.core.DatabaseEntity;
+import com.joao.basicauth.enums.TipoCargo;
 import lombok.*;
 
 import javax.persistence.*;

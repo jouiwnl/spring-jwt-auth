@@ -1,4 +1,4 @@
-package com.finance.barra.core;
+package com.joao.basicauth.core;
 
 import java.lang.reflect.Method;
 import java.nio.charset.StandardCharsets;

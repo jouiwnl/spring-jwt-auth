@@ -1,9 +1,9 @@
-package com.finance.barra.config;
+package com.joao.basicauth.config;
 
-import com.finance.barra.core.BasicRepository;
-import com.finance.barra.enums.TipoCargo;
-import com.finance.barra.model.Funcionario;
-import com.finance.barra.model.QFuncionario;
+import com.joao.basicauth.core.BasicRepository;
+import com.joao.basicauth.enums.TipoCargo;
+import com.joao.basicauth.model.Funcionario;
+import com.joao.basicauth.model.QFuncionario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.annotation.Configuration;

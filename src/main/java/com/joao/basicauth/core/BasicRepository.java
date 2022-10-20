@@ -1,11 +1,9 @@
-package com.finance.barra.core;
+package com.joao.basicauth.core;
 
 import com.querydsl.core.types.Predicate;
 import com.querydsl.core.types.dsl.PathBuilderFactory;
 import com.querydsl.jpa.JPQLTemplates;
 import com.querydsl.jpa.impl.JPAQuery;
-import com.querydsl.jpa.impl.JPAQueryFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.EntityManager;

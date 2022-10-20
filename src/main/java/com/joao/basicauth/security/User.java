@@ -1,7 +1,7 @@
-package com.finance.barra.security;
+package com.joao.basicauth.security;
 
-import com.finance.barra.enums.TipoCargo;
-import com.finance.barra.model.Funcionario;
+import com.joao.basicauth.enums.TipoCargo;
+import com.joao.basicauth.model.Funcionario;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

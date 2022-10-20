@@ -1,4 +1,4 @@
-package com.finance.barra;
+package com.joao.basicauth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

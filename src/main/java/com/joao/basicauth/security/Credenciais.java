@@ -1,4 +1,4 @@
-package com.finance.barra.security;
+package com.joao.basicauth.security;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

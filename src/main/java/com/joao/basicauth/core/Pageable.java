@@ -1,4 +1,4 @@
-package com.finance.barra.core;
+package com.joao.basicauth.core;
 
 /**
  * Representa as configurações de uma paginação.

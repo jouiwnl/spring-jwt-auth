@@ -1,4 +1,4 @@
-package com.finance.barra.enums;
+package com.joao.basicauth.enums;
 
 import lombok.Getter;
 

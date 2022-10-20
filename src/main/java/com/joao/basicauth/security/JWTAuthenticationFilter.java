@@ -1,4 +1,4 @@
-package com.finance.barra.security;
+package com.joao.basicauth.security;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.security.authentication.AuthenticationManager;

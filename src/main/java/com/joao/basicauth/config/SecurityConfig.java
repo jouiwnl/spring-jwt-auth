@@ -1,8 +1,8 @@
-package com.finance.barra.config;
+package com.joao.basicauth.config;
 
-import com.finance.barra.security.JWTAuthenticationFilter;
-import com.finance.barra.security.JWTAuthorizationFilter;
-import com.finance.barra.security.JWTManager;
+import com.joao.basicauth.security.JWTAuthenticationFilter;
+import com.joao.basicauth.security.JWTAuthorizationFilter;
+import com.joao.basicauth.security.JWTManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

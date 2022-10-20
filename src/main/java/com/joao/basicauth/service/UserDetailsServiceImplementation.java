@@ -1,9 +1,9 @@
-package com.finance.barra.service;
+package com.joao.basicauth.service;
 
-import com.finance.barra.core.BasicRepository;
-import com.finance.barra.model.Funcionario;
-import com.finance.barra.model.QFuncionario;
-import com.finance.barra.security.User;
+import com.joao.basicauth.core.BasicRepository;
+import com.joao.basicauth.model.Funcionario;
+import com.joao.basicauth.model.QFuncionario;
+import com.joao.basicauth.security.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

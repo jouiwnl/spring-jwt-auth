@@ -1,4 +1,4 @@
-package com.finance.barra.core;
+package com.joao.basicauth.core;
 
 import org.apache.commons.lang.builder.EqualsBuilder;
 import org.apache.commons.lang.builder.HashCodeBuilder;

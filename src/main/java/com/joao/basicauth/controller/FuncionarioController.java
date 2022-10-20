@@ -1,7 +1,7 @@
-package com.finance.barra.controller;
+package com.joao.basicauth.controller;
 
-import com.finance.barra.core.BasicRepository;
-import com.finance.barra.model.Funcionario;
+import com.joao.basicauth.core.BasicRepository;
+import com.joao.basicauth.model.Funcionario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
